@@ -16,8 +16,8 @@ I took on the demanding task of coding the **frontend** for the POTR pots landin
 
 ## Explore the Project:
 
-**Demo Version:** [DEMO](https://meljaszuk.github.io/Potr_Pots/)
+**Demo Version:** [DEMO](https://meljaszuk.github.io/Responsive-Webiste-EcoPots/)
 
-**Code Repository:** [BRANCH](https://github.com/meljaszuk/Potr_Pots/tree/develop)
+**Code Repository:** [CODE](https://github.com/meljaszuk/Responsive-Webiste-EcoPots)
 
 **Figma Design:** [FIGMA](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281)
