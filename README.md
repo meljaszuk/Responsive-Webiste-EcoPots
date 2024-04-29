@@ -1,5 +1,7 @@
 # Project Summary: POTR POTS Frontend Development
 
+![Tekst zastępczy](src/photo.jpg)
+
 I took on the demanding task of coding the **frontend** for the POTR pots landing page, a project embedded within a comprehensive course. Focused on the complexity of the design, I navigated through intricate layout modifications necessary for optimal display across diverse devices. The project also featured highly interactive sections, adding an additional layer of complexity to the coding challenge. This experience not only showcased my coding skills but also provided an invaluable learning opportunity. It allowed me to implement all key concepts of styling websites in CSS, demonstrating adaptability in addressing the nuances of modern web design and user interaction. This hands-on project significantly enriched my understanding and application of styling techniques, contributing to a well-rounded learning experience.
 
 ## Key Features:
