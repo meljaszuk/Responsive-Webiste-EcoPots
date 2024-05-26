@@ -73,6 +73,7 @@ function updateLargePot(item) {
   volumeLargePot = volumeLargePot + item;
   valueLargePot = volumeLargePot * PRICE_LARGE_POT;
   updateTotal();
+
   document.querySelector('.basket__volume-large-pot')
     .textContent = volumeLargePot;
 
