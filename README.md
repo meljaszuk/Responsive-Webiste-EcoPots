@@ -16,6 +16,11 @@ I took on the demanding task of coding the **frontend** for the POTR pots landin
 
 **Code Quality:** Prioritized clean and maintainable code, fostering efficiency in development and paving the way for future enhancements. Implemented variables, mixins, and adhered to BEM methodology. Implemented semantic HTML to enhance maintainability and accessibility, ensuring a more inclusive user experience.
 
+**Cart: ** Products can be added to the cart, with volumes and values automatically recalculated.
+
+## Limitations:
+The cart features are written in vanilla JavaScript, but using React would be better due to its modular components, efficient state management, and improved performance with the virtual DOM. React also offers a vast ecosystem and tools that enhance development. For a more robust solution, check out my React projects.
+
 ## Explore the Project:
 
 **Demo Version:** [DEMO](https://meljaszuk.github.io/Responsive-Webiste-EcoPots/)
