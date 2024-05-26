@@ -104,3 +104,17 @@
     object-fit: cover;
   }
 }
+
+.button-container {
+  position: relative;
+  display: inline-block;
+}
+
+.not-ready {
+  cursor: pointer;
+}
+
+.not-ready-text {
+  display: none;
+  color: red;
+}
