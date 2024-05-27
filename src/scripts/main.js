@@ -108,7 +108,9 @@ document.querySelector('.basket__plus.small-pot')
 
 document.querySelector('.basket__minus.small-pot')
   .addEventListener('click', function() {
-    updateSmallPot(-1);
+    if (volumeSmallPot > 0) {
+      updateSmallPot(-1);
+    }
   });
 
 document.querySelector('.basket__plus.large-pot')
@@ -118,5 +120,7 @@ document.querySelector('.basket__plus.large-pot')
 
 document.querySelector('.basket__minus.large-pot')
   .addEventListener('click', function() {
-    updateLargePot(-1);
+    if (volumeLargePot > 0) {
+      updateLargePot(-1);
+    }
   });
