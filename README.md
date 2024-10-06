@@ -1,6 +1,6 @@
 # POTR POTS Frontend Development
 
-## Project has been migrated to new Repository and upgraded to VUE 3 + Vite
+## Project has been migrated to a new repository and upgraded to VUE 3 + Vite
 
 **NEW Demo Version:** [DEMO](https://meljaszuk.github.io/Eco-Pots-Vue/)
 
